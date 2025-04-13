@@ -1,2 +1,2 @@
 # Stock-Market-Simulation
-An exploration of priority queue application 。
+An exploration of priority queue application.
